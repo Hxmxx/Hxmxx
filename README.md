@@ -10,7 +10,7 @@
 </div>
 <div style="display: flex; justify-content: center; align-items: center;">
   <h4>Design Stacks</h4>
-  <img src="https://img.shields.io/badge/figma-20232a.svg?style=for-the-badge&logo=figma&logoColor=F24E1E" /> <img src="https://img.shields.io/badge/photoshop-20232a.svg?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" /> <img src="https://img.shields.io/badge/illustrator-20232a.svg?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00" /> <img src="https://img.shields.io/badge/premierepro-20232a.svg?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF" /> <img src="https://img.shields.io/badge/aftereffect-20232a.svg?style=for-the-badge&logo=adobeaftereffects&logoColor=9999FF" />
+  <img src="https://img.shields.io/badge/figma-20232a.svg?style=for-the-badge&logo=figma&logoColor=F24E1E" /> <img src="https://img.shields.io/badge/photoshop-20232a.svg?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" /> <img src="https://img.shields.io/badge/illustrator-20232a.svg?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00" /> <img src="https://img.shields.io/badge/premierepro-20232a.svg?style=for-the-badge&logo=adobepremiere%2pro&logoColor=9999FF" /> <img src="https://img.shields.io/badge/after%2effect-20232a.svg?style=for-the-badge&logo=adobeaftereffects&logoColor=9999FF" />
 </div>
 
 
