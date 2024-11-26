@@ -1,5 +1,5 @@
 <!--## Hi there 👋-->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Eulyoo1945&pause=1000&width=435&lines=Hi%2C+I'm+Hamin%2C+Frontend+%26+Designer!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Eulyoo1945&pause=1000&width=435&lines=Hi%2C+I'm+Hamin%2C+Frontend+%26+Designer!)]([https://git.io/typing-svg](https://tundra-breeze-4c9.notion.site/9d57d6b13ce0469d9a57f581c048743d?pvs=4))
 <hr />
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hxmxx)](https://github.com/anuraghazra/github-readme-stats)-->
