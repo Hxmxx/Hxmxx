@@ -1,16 +1,22 @@
 <!--## Hi there 👋-->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Eulyoo1945&pause=1000&width=435&lines=Hi%2C+I'm+Hamin%2C+Frontend+%26+Designer!)]([https://git.io/typing-svg](https://tundra-breeze-4c9.notion.site/9d57d6b13ce0469d9a57f581c048743d?pvs=4))
+([https://git.io/typing-svg](https://tundra-breeze-4c9.notion.site/9d57d6b13ce0469d9a57f581c048743d?pvs=4))
 <a href="https://tundra-breeze-4c9.notion.site/9d57d6b13ce0469d9a57f581c048743d?pvs=4"><b>Protfolio</b></a>
 <hr />
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hxmxx)](https://github.com/anuraghazra/github-readme-stats)-->
 <div style="display: flex; justify-content: center; align-items: center;">
   <h4>Develop Stacks</h4>
-  <img src="https://img.shields.io/badge/Next-20232a.svg?style=for-the-badge&logo=nextdotjs&logoColor=000000" /> <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/typescript-20232a.svg?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/Next-20232a.svg?style=for-the-badge&logo=nextdotjs&logoColor=000000" />
+  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/typescript-20232a.svg?style=for-the-badge&logo=typescript&logoColor=3178C6" />
 </div>
 <div style="display: flex; justify-content: center; align-items: center;">
   <h4>Design Stacks</h4>
-  <img src="https://img.shields.io/badge/figma-20232a.svg?style=for-the-badge&logo=figma&logoColor=F24E1E" /> <img src="https://img.shields.io/badge/photoshop-20232a.svg?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" /> <img src="https://img.shields.io/badge/illustrator-20232a.svg?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00" /> <img src="https://img.shields.io/badge/premierepro-20232a.svg?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF" /> <img src="https://img.shields.io/badge/aftereffect-20232a.svg?style=for-the-badge&logo=adobeaftereffects&logoColor=9999FF" />
+  <img src="https://img.shields.io/badge/figma-20232a.svg?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+  <img src="https://img.shields.io/badge/photoshop-20232a.svg?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" />
+  <img src="https://img.shields.io/badge/illustrator-20232a.svg?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00" />
+  <img src="https://img.shields.io/badge/premierepro-20232a.svg?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF" />
+  <img src="https://img.shields.io/badge/aftereffect-20232a.svg?style=for-the-badge&logo=adobeaftereffects&logoColor=9999FF" />
 </div>
 
 
