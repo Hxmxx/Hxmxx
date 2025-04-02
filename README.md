@@ -1,6 +1,5 @@
 <!--## Hi there 👋-->
 <a href="https://tundra-breeze-4c9.notion.site/9d57d6b13ce0469d9a57f581c048743d?pvs=4"><h2>포트폴리오</h2></a>
-<hr />
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hxmxx)](https://github.com/anuraghazra/github-readme-stats)-->
 <div style="display: flex; justify-content: center; align-items: center;">
